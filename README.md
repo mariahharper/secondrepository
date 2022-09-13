@@ -22,3 +22,6 @@
   </body>
 </html>
     
+$ git config user.name
+> Mona Lisa
+
